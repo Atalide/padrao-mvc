@@ -11,6 +11,8 @@ Model-view-controller (MVC) é um padrão de arquitetura de software que divide 
 MVC – Exemplo básico do funcionamento em Node.JS
 O padrão MVC é simples na utilização, mas sua implementação no código pode ser um tanto complexa.  Segue um exemplo simples e básico que utiliza do conceito MVC em Node.JS. Este é o fluxo que a aplicação MVC vai seguir.
 
+[Aprenda MVC de maneira fácil](https://www.youtube.com/watch?v=ZW2JLtX4Dag)
+
 
 
 
